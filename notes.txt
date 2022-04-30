@@ -1,0 +1,51 @@
+Step1:
+    First 5 epochs:
+    lr = 0.1
+
+    Epoch 0/4
+    Loss: 10.4656 Acc: 0.4824
+    Epoch 1/4
+    Loss: 2.7500 Acc: 0.7903
+    Epoch 2/4
+    Loss: 1.2596 Acc: 0.8754
+    Epoch 3/4
+    Loss: 0.4321 Acc: 0.8915
+    Epoch 4/4
+    Loss: 0.3599 Acc: 0.8930
+
+    lr = 0.01
+    Epoch 0/4
+    Loss: 3.2902 Acc: 0.7449
+    Epoch 1/4
+    Loss: 0.6015 Acc: 0.8680
+    Epoch 2/4
+    Loss: 0.4238 Acc: 0.8783
+    Epoch 3/4
+    Loss: 0.3335 Acc: 0.8842
+    Epoch 4/4
+    Loss: 0.2255 Acc: 0.8915
+
+    lr = 0.001
+    Epoch 0/4
+    Loss: 1.6814 Acc: 0.3402
+    Epoch 1/4
+    Loss: 0.6633 Acc: 0.8109
+    Epoch 2/4
+    Loss: 0.2742 Acc: 0.8886
+    Epoch 3/4
+    Loss: 0.1738 Acc: 0.8886
+    Epoch 4/4
+    Loss: 0.1338 Acc: 0.8915
+
+    lr = 0.0001
+    Epoch 0/4
+    Loss: 3.2902 Acc: 0.7449
+    Epoch 1/4
+    Loss: 0.6015 Acc: 0.8680
+    Epoch 2/4
+    Loss: 0.4238 Acc: 0.8783
+    Epoch 3/4
+    Loss: 0.3335 Acc: 0.8842
+    Epoch 4/4
+    Loss: 0.2255 Acc: 0.8915
+
